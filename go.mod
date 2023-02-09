@@ -1,4 +1,4 @@
-module github.com/johnbellone/grpc-middleware-sentry
+module github.com/pengyq/grpc-middleware-sentry
 
 go 1.17
 
